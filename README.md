@@ -1,2 +1,2 @@
-Ini adalah sourcecode web untuk test keyboard 
+Ini adalah source code web untuk test keyboard 
 <a>http://keyboard-test.rf.gd</a>
