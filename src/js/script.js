@@ -1,4 +1,4 @@
-Kinput.onkeydown = Kinput.onkeyup = Kinput.onkeypress = Kinput.onmouseup = Kinput.onmousedown = handle;
+input.onkeydown = input.onkeyup = input.onkeypress = input.onmouseup = input.onmousedown = handle;
 
 function handle(e) {
 // untuk testing 
