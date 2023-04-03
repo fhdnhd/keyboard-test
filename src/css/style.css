@@ -1,0 +1,116 @@
+body {
+  background-color: #df2e38;
+}
+a{
+  color: white;
+  position: absolute;
+  bottom: 10px;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+.konten{
+    color : white;
+    padding:10px;
+    margin: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.container {
+  //width: fit-content;
+  //text-align: center;
+}
+.key-container {
+    margin: auto;
+    width: 965px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #ce111a;
+  }
+.key {
+  display: grid;
+  margin: 2px;
+  height: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-style: solid;
+  border-width: 2px;
+  width: 30px;
+  border-radius: 8px;
+  white-space: pre-wrap;
+  position: static;
+  justify-content: center;
+  align-content: center;
+  background-color: #f1ecc3;
+}
+.topkey {
+  display: flex;
+  margin-left: 33px;
+}
+.space {
+  width: 416px;
+}
+.tiny {
+  width: 10px;
+}
+.sm {
+  width: 60px;
+}
+.md {
+  width: 80px;
+}
+.lg {
+  width: 96px;
+}
+.fitsize {
+  width: 120px;
+}
+.rshift {
+  width: 120px;
+}
+.renter {
+  width: 78px;
+}
+.backspace {
+  width: 70px;
+}
+.bslash {
+  width: 40px;
+}
+.left {
+  justify-content: start;
+}
+.right {
+  justify-content: end;
+}
+.press {
+  background-color: #515e63;
+  border-color: rgba(255, 255, 255, 0);
+  color: white;
+}
+.pressed {
+  background-color: #c9d8b6;
+  border-color: rgba(0, 0, 0, 0.575);
+  color: rgb(0, 0, 0);
+}
+.flex {
+  display: inline-flex;
+}
+.flex-mouse {
+  display: inline-flex;
+  margin-left: 230px;
+}
+.flex-arrow {
+  display: inline-flex;
+  margin-left: 277px;
+}
+.click {
+  height: 30px;
+}
+.leftradius {
+  border-bottom-left-radius: 20px;
+}
+.rightradius {
+  border-bottom-right-radius: 20px;
+}
