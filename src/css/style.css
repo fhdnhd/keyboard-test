@@ -10,19 +10,21 @@ h1 {
   color: white;
   text-align: center;
 }
+.center{
+    min-width: 1000px;
+}
 .konten{
     color : white;
     padding:10px;
     margin: 10px;
     font-size: 20px;
-    text-align: center;
 }
 .container {
-  //width: fit-content;
-  //text-align: center;
+  text-align: center;
 }
 .key-container {
     margin: auto;
+    display: grid;
     width: 965px;
     padding: 10px;
     border-radius: 10px;
@@ -39,8 +41,6 @@ h1 {
   width: 30px;
   border-radius: 8px;
   white-space: pre-wrap;
-  position: static;
-  justify-content: center;
   align-content: center;
   background-color: #f1ecc3;
 }
@@ -103,7 +103,7 @@ h1 {
 }
 .flex-arrow {
   display: inline-flex;
-  margin-left: 277px;
+  margin-left: 278px;
 }
 .click {
   height: 30px;
