@@ -1,3 +1,3 @@
 # APA INI ?
-Ini adalah source code web untuk test keyboard 
-<a>http://keyboard-test.rf.gd</a>
+Ini adalah source code web untuk test keyboard. </br> 
+<a href="https://fhdnhd.github.io/keyboard-test/">klik disini</a>
